@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Momen Inersia</string>
+    <string name="tv_title">Title</string>
+    <string name="tv_app">Moment of Inertia</string>
+    <string name="tv_formula">Formula</string>
+    <string name="btn_calculate">CALCULATE</string>
+    <string name="edt_particle_mass">Particle Mass</string>
+    <string name="tv_distance">Distance to the Pivot Point</string>
+    <string name="form_empty">Form have to be filled</string>
+    <string name="tv_success">Success</string>
+    <string name="tv_okay">Okay</string>
+
+    <string-array name="array_title">
+        <item>Solid Cylinder</item>
+        <item>Hollow Cylinder</item>
+        <item>Solid Sphere</item>
+        <item>Hollow Sphere</item>
+    </string-array>
+
+    <string-array name="array_formula">
+        <item>1⁄2 mR²</item>
+        <item>mR²</item>
+        <item>2⁄5 mR²</item>
+        <item>2⁄3 mR²</item>
+    </string-array>
+
+    <integer-array name="array_image">
+        <item>@drawable/silinder_pejal</item>
+        <item>@drawable/silinder_tipis_berongga</item>
+        <item>@drawable/bola_pejal</item>
+        <item>@drawable/bola_tipis_berongga</item>
+    </integer-array>
+</resources>

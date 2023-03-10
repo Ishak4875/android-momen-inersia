@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Momen Inersia</string>
+    <string name="tv_title">Judul</string>
+    <string name="tv_app">Momen Inersia</string>
+    <string name="tv_formula">Rumus</string>
+    <string name="btn_calculate">HITUNG</string>
+    <string name="edt_particle_mass">Massa Partikel</string>
+    <string name="tv_distance">Jarak terhadap titik poros</string>
+    <string name="form_empty">Form harus diisi semua</string>
+    <string name="tv_success">Sukses</string>
+    <string name="tv_okay">Oke</string>
+
+    <string-array name="array_title">
+        <item>Silinder Pejal</item>
+        <item>Silinder Berongga</item>
+        <item>Bola Pejal</item>
+        <item>Bola Berongga</item>
+    </string-array>
+
+    <string-array name="array_formula">
+        <item>1⁄2 mR²</item>
+        <item>mR²</item>
+        <item>2⁄5 mR²</item>
+        <item>2⁄3 mR²</item>
+    </string-array>
+
+    <integer-array name="array_image">
+        <item>@drawable/silinder_pejal</item>
+        <item>@drawable/silinder_tipis_berongga</item>
+        <item>@drawable/bola_pejal</item>
+        <item>@drawable/bola_tipis_berongga</item>
+    </integer-array>
+</resources>
