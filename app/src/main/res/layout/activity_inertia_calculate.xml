@@ -45,7 +45,6 @@
                 android:layout_marginStart="5dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginEnd="5dp"
-                android:inputType="numberDecimal|textMultiLine"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/tv_calculate_title"
@@ -56,6 +55,7 @@
                     android:id="@+id/edt_mass"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:inputType="numberDecimal"
                     android:hint="@string/edt_particle_mass"
                     android:textColor="@color/blue" />
             </com.google.android.material.textfield.TextInputLayout>
@@ -68,7 +68,6 @@
                 android:layout_marginStart="5dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginEnd="5dp"
-                android:inputType="numberDecimal|textMultiLine"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/edt_layout_mass"
@@ -79,6 +78,7 @@
                     android:id="@+id/edt_distance"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:inputType="numberDecimal"
                     android:hint="@string/tv_distance"
                     android:textColor="@color/blue" />
             </com.google.android.material.textfield.TextInputLayout>
