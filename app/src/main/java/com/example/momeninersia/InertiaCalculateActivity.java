@@ -69,7 +69,7 @@ public class InertiaCalculateActivity extends AppCompatActivity {
         builder.setView(dialogBinding.getRoot());
 
         dialogBinding.textTitle.setText(getResources().getString(R.string.tv_success));
-        dialogBinding.textMessage.setText(Float.toString(result));
+        dialogBinding.textMessage.setText(getResources().getString(R.string.tv_result,result));
         dialogBinding.buttonAction.setText(getResources().getString(R.string.tv_okay));
         dialogBinding.imageIcon.setImageResource(R.drawable.ic_done);
 

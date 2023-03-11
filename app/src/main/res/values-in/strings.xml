@@ -6,10 +6,13 @@
     <string name="tv_formula">Rumus</string>
     <string name="btn_calculate">HITUNG</string>
     <string name="edt_particle_mass">Massa Partikel</string>
+    <string name="helper_particle_mass">Satuan : kg</string>
+    <string name="helper_distance">Satuan : m</string>
     <string name="tv_distance">Jarak terhadap titik poros</string>
     <string name="form_empty">Form harus diisi semua</string>
     <string name="tv_success">Sukses</string>
     <string name="tv_okay">Oke</string>
+    <string name="tv_result">%,.3f kg m²</string>
 
     <string-array name="array_title">
         <item>Silinder Pejal</item>

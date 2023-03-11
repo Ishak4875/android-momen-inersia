@@ -5,10 +5,13 @@
     <string name="tv_formula">Formula</string>
     <string name="btn_calculate">CALCULATE</string>
     <string name="edt_particle_mass">Particle Mass</string>
+    <string name="helper_particle_mass">Unit : kg</string>
+    <string name="helper_distance">Unit : m</string>
     <string name="tv_distance">Distance to the Pivot Point</string>
     <string name="form_empty">Form have to be filled</string>
     <string name="tv_success">Success</string>
     <string name="tv_okay">Okay</string>
+    <string name="tv_result">%,.3f kg m²</string>
 
     <string-array name="array_title">
         <item>Solid Cylinder</item>
