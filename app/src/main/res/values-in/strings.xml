@@ -3,6 +3,7 @@
     <string name="app_name">Momen Inersia</string>
     <string name="tv_title">Judul</string>
     <string name="tv_app">Momen Inersia</string>
+    <string name="tv_full_name">Kalkulator\nMomen Inersia</string>
     <string name="tv_formula">Rumus</string>
     <string name="btn_calculate">HITUNG</string>
     <string name="edt_particle_mass">Massa Partikel</string>

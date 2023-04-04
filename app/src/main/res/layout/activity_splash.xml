@@ -24,7 +24,8 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/tv_app"
+        android:text="@string/tv_full_name"
+        android:textAlignment="center"
         android:textColor="@color/blue"
         android:textSize="30sp"
         android:textStyle="bold"
@@ -32,5 +33,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.69" />
+        app:layout_constraintVertical_bias="0.73" />
 </androidx.constraintlayout.widget.ConstraintLayout>

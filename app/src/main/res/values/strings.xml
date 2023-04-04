@@ -2,6 +2,7 @@
     <string name="app_name">Momen Inersia</string>
     <string name="tv_title">Title</string>
     <string name="tv_app">Moment of Inertia</string>
+    <string name="tv_full_name">Moment of Inertia\nCalculator</string>
     <string name="tv_formula">Formula</string>
     <string name="btn_calculate">CALCULATE</string>
     <string name="edt_particle_mass">Particle Mass</string>
